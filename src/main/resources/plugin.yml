@@ -1,0 +1,5 @@
+name: i5chatcolor
+main: com.i5mc.chatcolor.Main
+version: 1
+author: yiwan
+depend: ['SimpleORM','PlaceholderAPI']
